@@ -1,0 +1,15 @@
+{
+    "name": "softwarepunt/fpm-passthrough",
+    "description": "Passthrough script",
+    "require": {
+        "colinmollenhour/credis": "^1.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roy de Jong",
+            "email": "roy@softwarepunt.nl"
+        }
+    ],
+    "minimum-stability": "dev"
+}
